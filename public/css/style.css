@@ -11,7 +11,7 @@ body {
 	text-align: center;
 }
 
-.menu a {
+a {
 	text-decoration: none;
 	color: #C29D4E;
 }
@@ -47,4 +47,12 @@ body {
 	width: 50%;
 	margin-right: auto;
 	margin-left: auto;
+}
+
+.contents .links {
+	margin-top: 3em;
+}
+
+.contents .links a {
+	text-decoration: underline;
 }
