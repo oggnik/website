@@ -21,16 +21,28 @@ body {
 
 
 .main {
-	margin-top: 5em;
+	margin-top: 2em;
 	width: 80%;
 	margin-right: auto;
 	margin-left: auto;
+	text-align: center;
 }
 
 .page_title {
-	text-align: center;
+}
+
+.portrait_picture {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
 }
 
 .contents {
-	text-align: center;
+}
+
+.contents .summary {
+	margin-top: 2em;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
 }
