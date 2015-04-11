@@ -1,0 +1,16 @@
+body {
+	background: #3C3C3C;
+	color: #C29D4E;
+}
+
+.heading {
+	width: 30%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.menu a {
+	text-decoration: none;
+	color: #C29D4E;
+}
