@@ -14,3 +14,23 @@ body {
 	text-decoration: none;
 	color: #C29D4E;
 }
+
+.heading hr {
+	border-color: #C29D4E;
+}
+
+
+.main {
+	margin-top: 5em;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.page_title {
+	text-align: center;
+}
+
+.contents {
+	text-align: center;
+}
