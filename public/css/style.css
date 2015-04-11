@@ -39,6 +39,7 @@ body {
 }
 
 .contents {
+	line-height: 1.5em;
 }
 
 .contents .summary {
